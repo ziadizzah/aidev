@@ -1,7 +1,7 @@
-const MINECRAFT_HOST = "localhost";
-const MINECRAFT_PORT = "3001";
+const MINECRAFT_HOST = "denailmc.com";
+const MINECRAFT_PORT = "25566";
 
-const PLAYER_NAME = "atlucas";
+const PLAYER_NAME = "COMANA";
 
 const BOT_CONFIG = {
     username: "alpha",
